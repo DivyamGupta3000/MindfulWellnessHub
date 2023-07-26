@@ -20,9 +20,9 @@ HTML, CSS, JavaScript
 
 #### Azure Services:
 
-Azure Bot Service
+1) Azure Bot Service
 
-Azure App Service
+2) Azure App Service
 
 #### Version Control:
 Git
@@ -42,12 +42,19 @@ This project is licensed under the MIT License.
 
 If you have any questions or need further assistance, you can reach out to the project maintainers:
 
-Your Name: divyamgupta3000@example.com
+Your Name: divyamgupta3000@gmail.com
 
 Feel free to visit my  website and start your journey towards better mental health and well-being!
 
 
 ## Screenshots
 
+### Home
+![Screenshot (18)](https://github.com/DivyamGupta3000/MindfulWellnessHub/assets/108221297/5cd9ae45-0939-49d0-820b-8388ff619193)
 
+### Services
+![Screenshot (19)](https://github.com/DivyamGupta3000/MindfulWellnessHub/assets/108221297/8815df6f-13ec-422b-bbfe-dbb6e8897de0)
+
+### About
+![Screenshot (20)](https://github.com/DivyamGupta3000/MindfulWellnessHub/assets/108221297/81412cae-eb8a-47ae-8276-d4fe8d0adb77)
 
