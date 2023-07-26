@@ -1,0 +1,127 @@
+@media screen and (max-width: 1016px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        
+        transition: all 2s ease-out;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .box-main{
+         flex-direction: column-reverse;
+         max-width: 100%;
+         
+    }
+    .box-main1{
+        flex-direction: column-reverse;
+        max-width: 100%;
+        
+   }
+    .secondHalf img{
+        height: 90%;
+    }
+    .firstSection{
+        height: auto;
+    }
+    .logo img{
+        width: 100%;
+    }
+    #search{
+        width: 90%;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .v-class-resp a{
+        opacity: 0;
+        pointer-events: none;
+    }
+    .section{
+        flex-direction: column-reverse;
+        height: auto;
+    }
+    .text-small{
+        text-align: center;
+        font-size: 17px;
+    }
+    .text-big{
+        text-align: center;
+        font-size: 20px;
+    }
+    .buttons{
+        align-items: center;
+        text-align: center;
+    }
+    .fluid{
+        width: 200px;
+        height: 200px;
+    }
+    .alignit{
+        margin-top: auto;
+    }
+    .service{
+        max-width: fit-content;
+    }
+    .display{
+        flex-direction: column;
+
+    }
+    .textcenter{
+        text-align: center;
+        
+    }
+    .fom{
+        width: fit-content;
+        margin: 10px;
+        padding: 25px;
+    }
+    .fom1{
+        width: fit-content;
+        margin: 15px;
+        padding: 20px;
+    }
+    .text-big1{
+        font-size: 17px;
+    }
+    
+    .text-big3{
+        font-size: 17px;
+        text-align: center;
+    }
+    .text-small1{
+        font-size: 12px;
+    }
+    .text-small2{
+        margin-left: 10%;
+        font-size: 12px;
+        text-align: center;
+        max-width: 100%;
+    }
+    .buttons1{
+        font-size: 15px;
+        padding: 4px 15px;
+        margin: 3px 10px;
+        border: 2px solid black;
+        border-radius: 10px;
+    }
+    .link{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .link1{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .firstHalf1{
+        width: 100%;
+    }
+}
